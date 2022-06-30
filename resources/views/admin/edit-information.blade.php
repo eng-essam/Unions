@@ -39,7 +39,7 @@
                                     <label style="float: right;"> عنوان الخبر :</label>
                                     <div style="display: block;" class="input-group">
                                         <div>
-                                            <input type="text" class="form-control" name="header">
+                                            <input type="text" placeholder="{{$information->header}}" class="form-control" name="header">
                                         </div>
                                         <div style="color: red ;font-size:15px ;float: right;">
                                             @error('header')
@@ -53,7 +53,7 @@
                                 <div style="margin-bottom: 30px" class="form-group">
                                     <label style="float: right;">محتوى الخبر</label>
                                     <div style="display: block;" class="input-group">
-                                        <input type="text" class="form-control" name="titel">
+                                        <input type="text"  placeholder="{{$information->titel}}" class="form-control" name="titel">
                                         <div style="color: red ;font-size:15px;float: right;">
                                             @error('titel')
                                                 {{ $message }}
