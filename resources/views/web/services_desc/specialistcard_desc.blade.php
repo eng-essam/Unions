@@ -1,5 +1,10 @@
 @extends('web.layout_member')
 
+
+@section('title')
+    {{ $service->namear }}
+@endsection
+
 @section('style')
     <link href="{{ asset('style_member/assets/service/home.css') }}" rel="stylesheet">
 @endsection

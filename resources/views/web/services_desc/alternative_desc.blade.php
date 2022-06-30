@@ -1,5 +1,11 @@
 @extends('web.layout_member')
 
+
+@section('title')
+    {{ $service->namear }}
+@endsection
+
+
 @section('style')
     <link href="{{ asset('style_member/assets/service/home.css') }}" rel="stylesheet">
 @endsection
@@ -110,8 +116,8 @@
                         لوصل الدفع
                     </p>
                     <div>
-                        <p>فودافون كاش: {{$union->phone}}</p>
-                        <p> رقم الحساب البنكي: {{$union->bank}}</p>
+                        <p>فودافون كاش: {{ $union->phone }}</p>
+                        <p> رقم الحساب البنكي: {{ $union->bank }}</p>
                     </div>
                 </div>
                 <a type="submit" href="{{ url("/union/serviceform/$service->id") }}" class="text-center">إبدأ

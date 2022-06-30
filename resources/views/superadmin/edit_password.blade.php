@@ -1,7 +1,7 @@
 @extends('superadmin.layout')
 
 @section('title')
-    تعديل بيانات عضو
+تعديل كلمة السر
 @endsection
 
 

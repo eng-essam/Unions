@@ -1,7 +1,7 @@
 @extends('superadmin.layout')
 
 @section('title')
-    تعديل بيانات عضو
+    تعديل بيانات
 @endsection
 
 
@@ -121,7 +121,7 @@
                                 <div style="margin-bottom: 30px" class="form-group">
                                     <label style="float: right;">كلمة السر الحالية :</label>
                                     <div style="display: block;" class="input-group" style="direction: rtl">
-                                        <input type="password" class="form-control" 
+                                        <input type="password" class="form-control"
                                             name="password">
                                         <div style="color: red ;font-size:15px;float: right;">
                                             @error('password')
@@ -150,7 +150,7 @@
                                 class="form-control">
                         </div>
 
-                       
+
                     </div>
                 </div>
 

@@ -1,7 +1,7 @@
 @extends('admin.layout')
 
 @section('title')
-    تعديل بيانات عضو
+    تعديل بيانات
 @endsection
 
 

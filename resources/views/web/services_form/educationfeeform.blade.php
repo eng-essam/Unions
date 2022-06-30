@@ -1,5 +1,9 @@
 @extends('web.layout_member')
 
+@section('title')
+    {{ $service->namear }}
+@endsection
+
 @section('style')
     <link href="{{ asset('style_member/assets/service/register.css') }}" rel="stylesheet">
 @endsection
@@ -72,7 +76,7 @@
                                 </div>
 
                                 <!-- الجانب الايسر-->
-                                
+
                             </div>
                             <div style="margin-bottom: 30px" class="col-md-6">
                                 <!-- ادخل-->
