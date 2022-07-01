@@ -6,15 +6,21 @@
 
  @section('main')
      <form action="{{ url('/guest/login') }}" method="POST" enctype="multipart/form-data" class="login-form">
-        @csrf
-         <span class="login-form-title p-b-43">سجل من هنا</span>
+         @csrf
+
+         <div style="margin-bottom: 30px;display: flex;justify-content: center">
+            <span style="font-size:60px; font-weight: 700;letter-spacing: 1px;color:#012970;"
+            >نق<span style="color: #4D66F1;font-size:60px">ا</span>بتي</span>
+         </div>
+
          <div style="margin-bottom: 10px">
-            @include('all.errors')
+             @include('all.errors')
          </div>
 
          <div style="margin-bottom: 25px">
              <div>
-                 <input name="email" value="{{old('email')}}" type="text" class="bg-light" placeholder="البريد الإلكتروني">
+                 <input name="email" value="{{ old('email') }}" type="text" class="bg-light"
+                     placeholder="البريد الإلكتروني">
              </div>
          </div>
 

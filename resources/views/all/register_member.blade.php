@@ -8,7 +8,7 @@
     <form  method="POST" action="{{ url('register') }}" class="register-form validate-form">
         @csrf
 
-        <span class="login-form-title p-b-43">انشاء حساب</span>
+        <span style="font-size: 50px" class="login-form-title p-b-30">انشاء حساب</span>
 
         <div>
             <div>
