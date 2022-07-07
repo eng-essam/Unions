@@ -7,7 +7,7 @@
 
 @section('namepage')
     <h1 style="color: white ; font-size: 25px ;padding-top: 10px">
-        جميع المشرفين المسجلين
+        جميع المشرفين
     </h1>
 @endsection
 
@@ -15,7 +15,7 @@
     <div class="card" style="direction: rtl">
 
         <div class="card-header">
-            
+
             <div style="text-align: center;display: inline-block ;float: right;height: 33px;">
                 <a href="{{ url('/add/admin') }}">
                     <i style="color: #DC3545;" class="fa-solid fa-user-plus fa-xl"></i>
@@ -36,7 +36,7 @@
         </div>
 
         @include('all.message')
-        
+
         <div class="card-body">
 
             <table class="table table-bordered">

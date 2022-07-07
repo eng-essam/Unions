@@ -252,6 +252,7 @@
 
                 <section id="team" class="team section-bg">
                     <div class="row row-cols-1 row-cols-md-3 g-4">
+
                         <div class="col">
                             <div style="width: 250px;height: 250px;margin: auto">
                                 <div class="member" data-aos="zoom-in" data-aos-delay="100">
@@ -272,106 +273,113 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col">
+
                             <div style="width: 250px;height: 250px;margin: auto">
                                 <div class="member" data-aos="zoom-in" data-aos-delay="100">
-                                    <img src="{{asset('style_member/assets/img/essam.jpg')}}" class="img-fluid" alt="">
+                                    <img src="{{asset('style_member/assets/img/ezat.jpeg')}}" class="img-fluid" alt="">
                                     <div class="member-info">
                                         <div class="member-info-content">
-                                            <h4>Essam Hamdy AL_agamy</h4>
-                                            <span style="font-size: 22px">Full Stack</span>
+                                            <h4>Ezzat Zenhom Sadek</h4>
+                                            <span style="font-size: 20px">Information Gathering and Data Analysis</span>
                                         </div>
                                         <div class="social">
-                                            <a href="https://twitter.com/Essam_Alagamy"><i class="bi bi-twitter"></i></a>
-                                            <a href="https://github.com/eng-essam"><i class="bi bi-github"></i></a>
-                                            <a href="https://www.facebook.com/essam123essam"><i class="bi bi-facebook"></i></a>
-                                            <a href="https://www.instagram.com/essam_alagamy/"><i class="bi bi-instagram"></i></a>
-                                            <a href="https://www.linkedin.com/in/essam-al-agamy-01b339219/"><i class="bi bi-linkedin"></i></a>
+                                            <a href=""><i class="bi bi-twitter"></i></a>
+                                            <a href=""><i class="bi bi-github"></i></a>
+                                            <a href="https://www.facebook.com/zezo.elsadek"><i class="bi bi-facebook"></i></a>
+                                            <a href=""><i class="bi bi-instagram"></i></a>
+                                            <a href=""><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col">
                             <div style="width: 250px;height: 250px;margin: auto">
                                 <div class="member" data-aos="zoom-in" data-aos-delay="100">
-                                    <img src="{{asset('style_member/assets/img/essam.jpg')}}" class="img-fluid" alt="">
+                                    <img src="{{asset('style_member/assets/img/abdo.jpg')}}" class="img-fluid" alt="">
                                     <div class="member-info">
                                         <div class="member-info-content">
-                                            <h4>Essam Hamdy AL_agamy</h4>
-                                            <span style="font-size: 22px">Full Stack</span>
+                                            <h4>Abd Elhady Mostafa Elagiry</h4>
+                                            <span style="font-size: 22px">Flutter Developer</span>
                                         </div>
                                         <div class="social">
-                                            <a href="https://twitter.com/Essam_Alagamy"><i class="bi bi-twitter"></i></a>
-                                            <a href="https://github.com/eng-essam"><i class="bi bi-github"></i></a>
-                                            <a href="https://www.facebook.com/essam123essam"><i class="bi bi-facebook"></i></a>
-                                            <a href="https://www.instagram.com/essam_alagamy/"><i class="bi bi-instagram"></i></a>
-                                            <a href="https://www.linkedin.com/in/essam-al-agamy-01b339219/"><i class="bi bi-linkedin"></i></a>
+                                            <a href=""><i class="bi bi-twitter"></i></a>
+                                            <a href=""><i class="bi bi-github"></i></a>
+                                            <a href="https://www.facebook.com/a.elagiry/"><i class="bi bi-facebook"></i></a>
+                                            <a href="https://www.instagram.com/abdo_elagiry/"><i class="bi bi-instagram"></i></a>
+                                            <a href=""><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col">
                             <div style="width: 250px;height: 250px;margin: auto">
                                 <div class="member" data-aos="zoom-in" data-aos-delay="100">
-                                    <img src="{{asset('style_member/assets/img/essam.jpg')}}" class="img-fluid" alt="">
+                                    <img style="height: 250px" src="{{asset('style_member/assets/img/mayar.jpg')}}" class="img-fluid" alt="">
                                     <div class="member-info">
                                         <div class="member-info-content">
-                                            <h4>Essam Hamdy AL_agamy</h4>
-                                            <span style="font-size: 22px">Full Stack</span>
+                                            <h4>Mayar Ahmed Abdelsameaa</h4>
+                                            <span style="font-size: 22px">Frontend Developer</span>
                                         </div>
                                         <div class="social">
-                                            <a href="https://twitter.com/Essam_Alagamy"><i class="bi bi-twitter"></i></a>
-                                            <a href="https://github.com/eng-essam"><i class="bi bi-github"></i></a>
-                                            <a href="https://www.facebook.com/essam123essam"><i class="bi bi-facebook"></i></a>
-                                            <a href="https://www.instagram.com/essam_alagamy/"><i class="bi bi-instagram"></i></a>
-                                            <a href="https://www.linkedin.com/in/essam-al-agamy-01b339219/"><i class="bi bi-linkedin"></i></a>
+                                            <a href=""><i class="bi bi-twitter"></i></a>
+                                            <a href=""><i class="bi bi-github"></i></a>
+                                            <a href="https://www.facebook.com/profile.php?id=100077339589703"><i class="bi bi-facebook"></i></a>
+                                            <a href=""><i class="bi bi-instagram"></i></a>
+                                            <a href="https://www.linkedin.com/in/mayar-ahmed-416715224"><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col">
                             <div style="width: 250px;height: 250px;margin: auto">
                                 <div class="member" data-aos="zoom-in" data-aos-delay="100">
-                                    <img src="{{asset('style_member/assets/img/essam.jpg')}}" class="img-fluid" alt="">
+                                    <img style="height: 250px" src="{{asset('style_member/assets/img/esraa.jpg')}}" class="img-fluid" alt="">
                                     <div class="member-info">
                                         <div class="member-info-content">
-                                            <h4>Essam Hamdy AL_agamy</h4>
-                                            <span style="font-size: 22px">Full Stack</span>
+                                            <h4>Esraa Ashraf Elsawah</h4>
+                                            <span style="font-size: 22px">Backend Developer</span>
                                         </div>
                                         <div class="social">
-                                            <a href="https://twitter.com/Essam_Alagamy"><i class="bi bi-twitter"></i></a>
-                                            <a href="https://github.com/eng-essam"><i class="bi bi-github"></i></a>
-                                            <a href="https://www.facebook.com/essam123essam"><i class="bi bi-facebook"></i></a>
-                                            <a href="https://www.instagram.com/essam_alagamy/"><i class="bi bi-instagram"></i></a>
-                                            <a href="https://www.linkedin.com/in/essam-al-agamy-01b339219/"><i class="bi bi-linkedin"></i></a>
+                                            <a href="https://twitter.com/ElsawahAshraf"><i class="bi bi-twitter"></i></a>
+                                            <a href="https://github.com/esraa5588"><i class="bi bi-github"></i></a>
+                                            <a href="https://www.facebook.com/esraa.ashrafelsawah"><i class="bi bi-facebook"></i></a>
+                                            <a href="https://instagram.com/esraa_elsawah55?igshid=YmMyMTA2M2Y="><i class="bi bi-instagram"></i></a>
+                                            <a href=""><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
                         <div class="col">
                             <div style="width: 250px;height: 250px;margin: auto">
                                 <div class="member" data-aos="zoom-in" data-aos-delay="100">
-                                    <img src="{{asset('style_member/assets/img/essam.jpg')}}" class="img-fluid" alt="">
+                                    <img src="{{asset('style_member/assets/img/ahmed.jpg')}}" class="img-fluid" alt="">
                                     <div class="member-info">
                                         <div class="member-info-content">
-                                            <h4>Essam Hamdy AL_agamy</h4>
-                                            <span style="font-size: 22px">Full Stack</span>
+                                            <h4>Ahmed Abdullah Zayan</h4>
+                                            <span style="font-size: 22px">Flutter Developer</span>
                                         </div>
                                         <div class="social">
-                                            <a href="https://twitter.com/Essam_Alagamy"><i class="bi bi-twitter"></i></a>
-                                            <a href="https://github.com/eng-essam"><i class="bi bi-github"></i></a>
-                                            <a href="https://www.facebook.com/essam123essam"><i class="bi bi-facebook"></i></a>
-                                            <a href="https://www.instagram.com/essam_alagamy/"><i class="bi bi-instagram"></i></a>
-                                            <a href="https://www.linkedin.com/in/essam-al-agamy-01b339219/"><i class="bi bi-linkedin"></i></a>
+                                            <a href="#"><i class="bi bi-twitter"></i></a>
+                                            <a href="https://github.com/ahmedzayan7920"><i class="bi bi-github"></i></a>
+                                            <a href="https://www.facebook.com/1smile11"><i class="bi bi-facebook"></i></a>
+                                            <a href="#"><i class="bi bi-instagram"></i></a>
+                                            <a href="#"><i class="bi bi-linkedin"></i></a>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </section>
             </div>

@@ -3,7 +3,9 @@
 @section('style')
     <link href="{{ asset('style_member/assets/service/register.css') }}" rel="stylesheet">
 @endsection
-
+@section('title')
+    تعديل بيانات خدمة
+@endsection
 @section('main')
     <!-- start talbaty -->
     <form style="margin-top: 100px" id="talbaty" class="talbaty" method="POST" action="{{ url("/member/service/update/$service->id") }}" enctype="multipart/form-data">

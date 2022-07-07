@@ -54,6 +54,8 @@
                           </ul>
                       </li>
 
+                      <li><a style="font-size: 20px;" class="nav-link scrollto" href="#team">الفريق</a></li>
+
                       <li><a style="font-size: 20px;" class="nav-link scrollto" href="#about">معلومات عنا</a></li>
 
                   @endguest

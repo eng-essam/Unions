@@ -7,7 +7,7 @@
 
 @section('namepage')
     <h1 style="color: white ; font-size: 25px ;padding-top: 10px">
-        بياناتي الشخصية
+        ارقام النقابة
     </h1>
 @endsection
 
