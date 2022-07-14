@@ -34,7 +34,7 @@
             <div class="wrap-login">
                 @yield('main')
                 <div class="login-more"
-                    style="background-image:url({{ asset('style/img/login.svg') }});padding: 10px">
+                    style="background-image:url({{ asset('style_log/img/login.svg') }});padding: 10px">
                 </div>
             </div>
         </div>
