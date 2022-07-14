@@ -5,9 +5,11 @@ namespace App\Http\Controllers\Api;
 use App\Http\Controllers\Controller;
 use Illuminate\Auth\Events\Verified;
 use Illuminate\Http\Request;
-
+use Illuminate\Foundation\Auth\EmailVerificationRequest;
 class EmailVerificationController extends Controller
 {
+
+
     public function sendVerificationEmail(Request $request){
 
         $user = $request->user();
